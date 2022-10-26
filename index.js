@@ -13,6 +13,9 @@ app.get("/", (req, res) => {
     res.send("Now Server is running")
 })
 
+app.get("/courses", (req, res) => {
+    res.send(courses);
+})
 
 
 app.listen(Port, () => {
