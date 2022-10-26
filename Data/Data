@@ -1,0 +1,105 @@
+id: 1
+courseName: Python For Everybody
+thumbnail: https://www.datocms-assets.com/14946/1590686329-python-analytics-cover.png?auto=format&fit=max&w=1200
+gain: Json, Xml, Python Programming, Database (DBMS), Python Syntax And Semantics, Basic Programming Language, Computer Programming, Data Structure, Tuple, Web Scraping, Sqlite, SQL
+details: This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.
+rating: 4.8
+reviews: 195.1k
+duration: 1 Month
+courseType: Programming Language
+
+
+
+id: 2
+courseName: Ethical Hacking Essentials (EHE)
+thumbnail: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e5/5b94f0bb5811e78eb4ffb2bb669fdb/Introduction-to-Cyber-Security.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25
+gain: Fundamentals of information security and ethical hacking, Application-level attacks including webserver exploitation, OWASP top10 attacks, and SQL injection and their countermeasures
+details: Ethical Hacking Essentials is an introductory cybersecurity course that covers ethical hacking and penetration testing fundamentals and prepares learners for a career in cybersecurity. This course will introduce learners to computer and network security concepts such as threats and vulnerabilities, password cracking, web application attacks, IoT and OT attacks, cloud computing, pentesting fundamentals, and more. <br /> This course provides hands-on practical experience to learners thus giving them the skills necessary for a future in cybersecurity. <br /> EHE-certified learners have an assured means of formal recognition to add to their resumes and show off their expertise and skills to prospective employers. This improves their prospects for employment advancement, higher salaries, and greater job satisfaction. 
+rating: 4.5
+reviews: 24.7K
+duration: 1-2 Month
+courseType: Cybersecurity 
+
+
+
+id: 3
+courseName: Google IT Automation with Python
+thumbnail: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/10/94e64625eb4b41b05e66ed0e5bab30/Xavier-MI-Thompson-119.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25
+gain: Using Version Control, Troubleshooting & Debugging, Python Programming, Configuration Management, Automation, Basic Python Data Structures
+details: This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career. <br /> Knowing how to write code to solve problems and automate solutions is a crucial skill for anybody in IT. Python, in particular, is now the most in-demand programming language by employers. <br /> This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud. <br /> This certificate can be completed in about 6 months and is designed to prepare you for a variety of roles in IT, like more advanced IT Support Specialist or Junior Systems Administrator positions. Upon completion, you can share your information with potential employers, like Walmart, Sprint, Hulu, Bank of America, Google (of course!), and more. <br /> We recommend that you have Python installed on your machine. For some courses, you’ll need a computer where you can install Git or ask your administrator to install it for you.
+rating: 4.8
+reviews: 480.8k
+duration: 2 Month
+courseType: Automation
+
+
+
+id: 4
+courseName: Introduction to Front-End Development
+thumbnail: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/fe/7320a26ec945e6ae1a3251d38d43b2/front-end-dev1.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25
+gain: Web Development Tools, User Interface, Front-End Web Development, HTML and CSS, Responsive Web Design
+details: Welcome to Introduction to Front-End Development, the first course in the Meta Front-End Developer program. <br /> This course is a good place to start if you want to become a web developer. You will learn about the day-to-day responsibilities of a web developer and get a general understanding of the core and underlying technologies that power the internet. You will learn how front-end developers create websites and applications that work well and are easy to maintain. <br /> You’ll be introduced to the core web development technologies like HTML and CSS and get opportunities to practice using them. You will also be introduced to modern UI frameworks such as Bootstrap and React that make it easy to create interactive user experiences. 
+rating: 4.8
+reviews: 69.8k
+duration: 2 Month
+courseType: Web Development
+
+
+
+id: 5
+courseName: Leadership Development for Engineers
+thumbnail: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ab/1c4aa08a2e11e6ae85852b07bb10f2/comp-600px-2.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill
+gain: Communication, Stress Management, Management, Meeting
+details: This Specialization is designed for professional engineers who are interested in advancing into leadership and management roles. You’ll develop awareness of your own strengths and weaknesses as a leader, and you’ll learn to leverage your strengths and control for your weaknesses when you’re placed in charge of a team or project. You’ll also learn to manage relationships with your team members and colleagues through proven coaching, mentoring, and conflict resolution techniques, and you’ll master goal-setting and planning methods designed to set you and your team up for success. Finally, you’ll learn how to set up a creative environment for your team, and how to motivate each team member to reach his or her potential.
+rating: 4.7
+reviews: 15k
+duration: 1 Month
+courseType: Leadership
+
+
+
+id: 6
+courseName: Introduction to Android Mobile Application Development
+thumbnail: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/3e/897594b52e4058a599baa12e530b06/Android-dev1.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25
+gain: Android Studio, Application development, Mobile Development
+details: This course is an ideal stepping stone if you want to become a mobile developer. We’ll introduce you to this career path and give you a high-level overview of programming and the tools needed to develop Android applications. <br /> Explore the Android Studio and the fundamental concepts of Android app development. Learn about operating systems and different platforms for creating mobile apps. You’ll conclude your introduction to Android application development by building out each aspect of a guided project.
+rating: 4.7
+reviews: 39
+duration: 1 Month
+courseType: Mobile Application
+
+
+
+id: 7
+courseName: iOS App Development with Swift
+thumbnail: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/Toronto_iOS-Development-with-Swift_CM48483.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill
+gain: Swift (Programming Language), Persistence, iOS App Development, Xcode, Syntax, Core Data
+details: Master Swift, design elegant interactions, and create a fully functioning iOS app. <br /> This Specialization covers the fundamentals of iOS application development in the Swift programming language. You’ll learn to use development tools such as XCode, design interfaces and interactions and evaluate their usability, and integrate camera, photo, and location information to enhance your app. In the final Capstone Project, you’ll apply your skills to create a fully-functioning photo editing app for iPhone, iPad, and Apple Watch. A Mac computer is required for success in this course.
+rating: 4.0
+reviews: 33k
+duration: 2 Month
+courseType: iOS App Development
+
+
+
+id: 8
+courseName: Server-side Development with NodeJS, Express and MongoDB
+thumbnail: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/c3/2ab0304cf611e7a143498f0a05f3b8/Logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25
+gain: Authentication, Node.Js, Mongodb, Express.Js
+details: This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services. 
+rating: 4.9
+reviews: 21.2k
+duration: 2 Month
+courseType: Server-Side Development
+
+
+
+id: 9
+courseName: Successful Career Development
+thumbnail: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/02/d1b560177111e6b19b053f741d7b84/iStock_000062286568_Small.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25
+gain: Leadership, Development
+details: No matter the professional level, we can all benefit from learning how to succeed in our careers. Whether a well-seasoned professional, a management trainee, or a service level employee, this course will help you enrich your career by honing your professional behavior and networking. <br /> Through industry expert support and resources, this course is designed to prepare you for success in any chosen career. You will develop the habits and attitudes you need to perform effectively in the job market. You will identify a mentor to add value to your career.  You will analyze your relationships and develop a practical approach for engaging your LinkedIn network. You will differentiate between networking and networking with intention. You will also discover the most effective ways to ask for help from your peer or professional group. Finally, you will evaluate the best methods of adjusting your career path at various stages of life.
+rating: 4.7k
+reviews: 1.4k
+duration: 1-3 Month
+courseType: Leadership
